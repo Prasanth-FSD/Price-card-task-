@@ -1,0 +1,2 @@
+# Price-card-task-
+HTML, CSS ,JAVA SCRIPT  ,BOOTSTRAP , REACT
